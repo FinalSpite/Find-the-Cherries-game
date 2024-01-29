@@ -1,2 +1,13 @@
 # Find-the-Cherries-game
-Quick and easy game made in python
+Quick and easy game made in Python
+
+Make sure that you have Python and the following packages installed via the built-in pip command with python
+  pygame
+  tkinter (and ttkbootstrap, as well as customtkinter)
+  PIL (pillow)
+  tempfile
+  subprocess (I don't remember if it is included)
+
+after that, the scores should work and everything
+  
+  
